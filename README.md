@@ -1,6 +1,6 @@
 # Neutrino-Oscillations
 ## Summary
-Fourth lab experiment from my third year undergraduate in Physics at The University of Manchester.
+Second lab experiment from my third year undergraduate in Physics at The University of Manchester.
 
 The aim of this experiment was to investigate neutrino oscillations using data from the MicroBooNE detector. The primary focus was to isolate muon neutrino signals from back- ground events using selection cuts and machine learning techniques. By analysing the energy of neutrino tracks, confidence regions were constructed for a two-flavour neutrino parameter space. These were propagated into a 3+1 model parameter space and were used to reject proposed parameters for a theoretical sterile neutrino by the LSND and MiniBooNE experiments.
 
