@@ -12,6 +12,7 @@ The aim of this experiment was to investigate neutrino oscillations using data f
 * Confusion Matrices
 * Advanced linear algebra for neutrino oscillation derivations
 * Comparison of results from using selection cuts and machine learning
+* Pandas and Numpy compatibility 
 
 
 ## Files
